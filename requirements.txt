@@ -2,7 +2,7 @@ google-generativeai
 langchain
 streamlit
 python-dotenv
-pyPDF2
+PyPDF2
 setuptools
 langchain-google-genai
 langchain_classic
