@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: my_package
+Version: 0.1.0
+Author: Your Name
+Author-email: harshchudasama4739s@gmail.com
+Requires-Dist: google-generativeai
+Requires-Dist: langchain
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
+Requires-Dist: pyPDF2
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist

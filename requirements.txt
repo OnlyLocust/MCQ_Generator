@@ -7,3 +7,5 @@ setuptools
 langchain-google-genai
 langchain_classic
 langchain_core
+
+-e .
